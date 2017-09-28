@@ -1,0 +1,137 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,800,300);
+@import url(https://fonts.googleapis.com/css?family=Muli);
+@import url(https://fonts.googleapis.com/css?family=Satisfy);
+@import url('https://fonts.googleapis.com/css?family=Kurale');
+
+
+body{
+	/*font-family: 'Open Sans', sans-serif;*/
+    background-color: white;
+}
+.centered-form{
+	margin-top: 60px;
+  	background-size: 211px 510px;
+    background-size: 11% 10%;
+    
+}
+
+.centered-form .panel{
+
+	background: rgba(500, 500, 500, 1);
+	box-shadow: rgba(0, 0, 0, 0.3) 40px 40px 40px;
+}
+
+
+
+img{
+  max-width: 100%;
+}
+
+ul{
+  padding: 0;
+  list-style: none;
+  margin-bottom: 0;
+}
+
+
+
+ 
+h1,h2,h3,h4,h5,h6{
+font-family: 'Satisfy', cursive;
+    /* font-weight: 700; */
+    line-height: 1.2;
+    margin-top: 0;
+    margin-bottom: 15px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+}
+
+h1{
+	font-size: 36px;
+}
+.slider-text-big{
+font-family: 'Satisfy', cursive;
+	
+}
+.sp-layer{
+	color:#fff;
+	font-size:28px;
+	/* font-family: 'Satisfy', cursive; */
+}
+h2{
+	font-size: 30px;
+}
+
+h3{
+	font-size: 28px;
+	color: #000000;
+	padding: 20px 0;
+}
+
+h4{
+	font-size: 18px;
+	color: #949494;
+}
+
+h5{
+	font-size: 16px;
+}
+
+h5{
+	font-size: 14px;
+}
+
+a,p,li,input,textarea{
+    
+    font-weight: 400;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+p {
+	color: #333;
+	font-size: 40px;
+	text-align: center;
+	font-family: 'Kurale';
+}
+
+a{
+	-webkit-transition: all .3s;
+	-moz-transition: all .3s;
+	-ms-transition: all .3s;
+	-o-transition: all .3s;
+	transition: all .3s;
+	color: #80cc0c;
+}
+
+
+
+.section-header1{
+	text-align: center;
+	margin-top: 50px;
+}
+
+.section-header1 h1{
+	
+	font-weight: 700;
+	font-size: 30px;
+	color: #ffffff;
+}
+
+.section-header1 h2{
+	font-weight: 700;
+	font-size: 48px;
+	color: #80cc0c;
+	border-top: none;
+	border-bottom: none;
+	padding: 8px 10px;
+}
+
+.section-header1 h1 span{
+	
+	font-weight: 700;
+	font-size: 30px;
+}
+
+
